@@ -1,0 +1,4 @@
+Zapytanie 1: SELECT id,nr_rejsu,czas,kierunek,status_lotu FROM odloty ORDER BY czas DESC;
+Zapytanie 2:
+Zapytanie 3:
+Zapytanie 4:
